@@ -1,3 +1,9 @@
+"""
+Filtering the low SNR events from the candidate list
+
+"""
+
+
 import numpy as np
 import sys,os
 #import matplotlib.pyplot as plt

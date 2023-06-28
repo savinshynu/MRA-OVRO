@@ -1,3 +1,8 @@
+"""
+Plots the averged map and spectral index map across time for each MRA
+
+"""
+
 import numpy as np
 import numpy.ma as ma
 import glob

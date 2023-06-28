@@ -1,3 +1,9 @@
+"""
+
+High resolution imaging pipeline
+"""
+
+
 import numpy as np
 import sys
 from lsl import astro

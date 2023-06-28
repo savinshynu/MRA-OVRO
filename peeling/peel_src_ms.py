@@ -1,3 +1,9 @@
+"""
+Peeling a single MD dataset
+
+"""
+
+
 import sys
 #import glob
 import os

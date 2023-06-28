@@ -1,3 +1,9 @@
+"""
+peels the bright sources in the measurement sets
+
+"""
+
+
 import sys
 #import glob
 import os

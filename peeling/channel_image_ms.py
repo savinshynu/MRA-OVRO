@@ -1,3 +1,9 @@
+"""
+Conducts low resolution channelized images of MSs
+
+"""
+
+
 import sys
 #import glob
 import os

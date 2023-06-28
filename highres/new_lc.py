@@ -1,3 +1,8 @@
+"""
+Plot light curves by smoothening the data
+
+"""
+
 import numpy as np
 import sys
 import matplotlib.pyplot as plt

@@ -1,3 +1,8 @@
+"""
+Combining hdf5 file from different subbands
+
+"""
+
 import numpy as np
 import sys,glob
 import matplotlib.pyplot as plt

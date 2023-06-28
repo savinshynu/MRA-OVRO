@@ -1,3 +1,9 @@
+"""
+Create a Gaussian beam of the low frequency image, convolve it with high frequencies,
+slice a small section of region around the MRA emission
+
+"""
+
 import numpy as np
 import glob
 import os

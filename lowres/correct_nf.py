@@ -1,3 +1,8 @@
+"""
+Apply a near field correction to a CASA MS dataset given the source location
+
+"""
+
 import sys
 import aipy
 import numpy

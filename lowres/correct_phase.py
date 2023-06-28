@@ -1,3 +1,9 @@
+"""
+Conducts phasing of visibilities in the far field
+
+"""
+
+
 import sys
 import aipy
 import numpy

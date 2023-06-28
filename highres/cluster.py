@@ -1,3 +1,8 @@
+"""
+Clustering the source regions in the image
+
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from utils import ang_dist_sing, ang_dist_mult

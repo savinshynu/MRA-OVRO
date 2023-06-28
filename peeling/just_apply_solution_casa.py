@@ -1,3 +1,8 @@
+"""
+Apply the bandpass calibration to datasets
+
+"""
+
 import sys
 import glob
 import os

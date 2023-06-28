@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+"""
+Plots the flagged fraction of an MS data file
+
+"""
+
 import os
 import sys
 import numpy

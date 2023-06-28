@@ -1,3 +1,9 @@
+"""
+Derive bandpass calibration from an image where Cyg A and Cas A are close to zenith
+
+"""
+
+
 import sys
 import numpy as np
 

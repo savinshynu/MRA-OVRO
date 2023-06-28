@@ -1,3 +1,8 @@
+"""
+Imaging without any peeling
+
+"""
+
 import sys
 import glob
 import os

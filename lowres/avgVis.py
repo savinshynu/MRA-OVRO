@@ -1,3 +1,7 @@
+"""
+Averaging the visibilities from 2 MS datasets
+
+"""
 import sys
 import aipy
 import numpy

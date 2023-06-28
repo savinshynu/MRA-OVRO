@@ -1,3 +1,9 @@
+"""
+Plot the spectral index maps of MRAs
+
+"""
+
+
 import numpy as np
 import numpy.ma as ma
 import glob

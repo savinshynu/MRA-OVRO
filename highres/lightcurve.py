@@ -1,3 +1,7 @@
+"""
+plotting the light curves of an event from the hdf5 image file
+"""
+
 import numpy as np
 import sys
 import matplotlib.pyplot as plt

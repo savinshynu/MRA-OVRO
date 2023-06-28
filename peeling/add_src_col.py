@@ -1,3 +1,8 @@
+"""
+Adding the source column to the measurement set
+
+"""
+
 from casacore.tables import table, tableutil
 import numpy as np
 import sys

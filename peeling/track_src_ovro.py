@@ -1,3 +1,9 @@
+"""
+Track the locations of A class sources on a given day
+
+"""
+
+
 import sys
 import os,glob
 import numpy as np

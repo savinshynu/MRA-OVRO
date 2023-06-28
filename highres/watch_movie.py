@@ -1,3 +1,7 @@
+"""
+Make a movie from high resolution images
+"""
+
 import numpy as np
 import sys, os
 import matplotlib.pyplot as plt

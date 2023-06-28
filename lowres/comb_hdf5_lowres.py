@@ -1,3 +1,8 @@
+"""
+Combine multiple low resolution images in the low band
+
+"""
+
 import numpy as np
 import sys,glob
 import matplotlib.pyplot as plt

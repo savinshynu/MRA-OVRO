@@ -1,3 +1,7 @@
+"""
+Makes movies of all-sky images
+"""
+
 import numpy as np
 import sys,glob
 import matplotlib.pyplot as plt

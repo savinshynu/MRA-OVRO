@@ -1,3 +1,9 @@
+"""
+Plotting the MRA fits files
+
+"""
+
+
 import numpy as np
 import glob
 from matplotlib import pyplot as plt

@@ -1,3 +1,9 @@
+"""
+Subtract noise like visibilities from a peak event visibilities
+
+"""
+
+
 import sys
 import aipy
 import numpy

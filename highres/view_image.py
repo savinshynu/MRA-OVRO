@@ -1,3 +1,8 @@
+"""
+View the peak image of an event
+
+"""
+
 import numpy as np
 import sys
 import matplotlib.pyplot as plt

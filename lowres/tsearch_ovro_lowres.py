@@ -1,3 +1,8 @@
+"""
+Pipeline to conduct the transient search with OVRO low resolution image
+
+"""
+
 import numpy as np
 import sys
 from lsl import astro

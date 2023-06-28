@@ -1,3 +1,8 @@
+"""
+Functions used in the transient search pipeline
+
+"""
+
 import numpy as np
 from lsl import astro
 
