@@ -1,5 +1,5 @@
 # MRA-OVRO
-Script used in the analysis of MRAs from OVRO-LWA telescope. Contains the scripts from calibration and imaging.
+Script used in the analysis of MRAs from OVRO-LWA telescope. Contains the scripts for calibration and imaging.
 
 ## highres
 - scripts used in the high resolution imaging and transient search
